@@ -9,7 +9,7 @@ use zgldh\QiniuStorage\QiniuStorage;
 
 class EditormdController extends Controller
 {
-    //上传图片的处理
+    //上传图片的处理，萧队长修改后的插件
     public function uploadimage(Request $request)
     {
         //这是根据官网上面上传图片的json返回数据的固定格式
