@@ -6,3 +6,11 @@
     padding: 0.5em;
     background: #111;
 }
+/* 修改上传图片对话框样式 */
+.editormd-image-dialog {
+    width: 500px !important;
+}
+
+.editormd-image-dialog input {
+    height: auto !important;
+}
