@@ -25,6 +25,7 @@ if (!function_exists("editor_js")) {
 <script src="/vendor/editormd/lib/jquery.flowchart.min.js"></script>
 <script>
     var testEditor;
+    console.log(testEditor);
     $(function () {
         editormd.emoji = {
             path: "//staticfile.qnssl.com/emoji-cheat-sheet/1.0.0/",
