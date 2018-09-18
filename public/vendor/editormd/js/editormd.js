@@ -83,8 +83,8 @@
         ],
         upwithme : [
            "undo", "redo", "|",
-           "bold", "del", "italic", "quote", "uppercase", "lowercase", "|",
-           "h1", "h2", "h3", "h4", "h5", "h6", "|",
+           "bold", "del", "italic", "quote", "|",
+           "h1", "h2", "h3", "h4", "|",
            "list-ul", "list-ol", "hr", "image" , "|",
            "watch", "preview", "fullscreen", "|",
            "help", "info"
@@ -112,7 +112,7 @@
         delay                : 300,            // Delay parse markdown to html, Uint : ms
         autoLoadModules      : true,           // Automatic load dependent module files
         watch                : true,
-        placeholder          : "记录成长，在一起！",
+        placeholder          : "让改变看得见，慢慢来，持续做，在一起，一辈子！",
         gotoLine             : true,
         codeFold             : false,
         autoHeight           : false,
@@ -123,7 +123,7 @@
         readOnly             : false,
         tabSize              : 4,
 		indentUnit           : 4,
-        lineNumbers          : true,
+        lineNumbers          : false,
 		lineWrapping         : true,
 		autoCloseBrackets    : true,
 		showTrailingSpace    : true,
