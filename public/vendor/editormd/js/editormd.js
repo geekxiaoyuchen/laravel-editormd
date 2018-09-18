@@ -111,7 +111,7 @@
         pluginPath           : "",             // If this empty, default use settings.path + "../plugins/"
         delay                : 300,            // Delay parse markdown to html, Uint : ms
         autoLoadModules      : true,           // Automatic load dependent module files
-        watch                : true,
+        watch                : false,
         placeholder          : "让改变看得见，慢慢来，持续做，在一起，一辈子！",
         gotoLine             : true,
         codeFold             : false,
