@@ -20,7 +20,6 @@ if (!function_exists("editor_js")) {
 <script src="/vendor/editormd/lib/marked.min.js"></script>
 <script src="/vendor/editormd/lib/prettify.min.js"></script>
 <script src="/vendor/editormd/lib/underscore.min.js"></script>
-<script src="/vendor/editormd/lib/sequence-diagram.min.js"></script>
 <script src="/vendor/editormd/lib/flowchart.min.js"></script>
 <script src="/vendor/editormd/lib/jquery.flowchart.min.js"></script>
 <script>
